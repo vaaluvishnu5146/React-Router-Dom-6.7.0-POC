@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+
+Execute this command to install all the necessary dependencies in your clone project.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 ### `npm start`
 
